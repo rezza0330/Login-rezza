@@ -1,0 +1,107 @@
+body {
+   font-family: sans-serif;
+   background: url('123.jpeg');
+   background-size: 400px;
+}
+
+ h1 {
+   text-align: center;body {
+   font-family: sans-serif;
+   background: #d5f0f3;
+}
+
+ h1 {
+   text-align: center;
+    /*ketebalan font*/
+   font-weight: 400;
+ }
+
+.tulisan_login {
+   text-align: center;
+   /*membuat semua huruf menjadi kapital*/
+  text-transform: uppercase;
+}
+
+.kotak_login {
+   width: 350px;
+   background: white;
+   /*meletakkan form ke tengah*/
+   margin: 85px auto;
+   padding: 35px 20px;
+}
+
+label {
+   font-size: 13pt;
+ }
+
+.form_login {
+   /*membuat lebar form penuh*/
+   box-sizing: border-box;
+   width: 100%;
+    padding: 15px;
+   font-size: 13pt;
+  margin-bottom: 25px;
+}
+
+.tombol_login {
+ background: #46de4b;
+  color: blue;
+   font-size: 13pt;
+ width: 100%;
+   border: none;
+ border-radius: 5px;
+   padding: 15px 20px;
+}
+
+.link {
+   color: #232323;
+ text-decoration: none;
+ font-size: 15pt;
+ }
+
+    /*ketebalan font*/
+   font-weight: 400;
+ }
+
+.tulisan_login {
+   text-align: center;
+   /*membuat semua huruf menjadi kapital*/
+  text-transform: uppercase;
+}
+
+.kotak_login {
+   width: 350px;
+   background: white;
+   /*meletakkan form ke tengah*/
+   margin: 85px auto;
+   padding: 35px 20px;
+}
+
+label {
+   font-size: 13pt;
+ }
+
+.form_login {
+   /*membuat lebar form penuh*/
+   box-sizing: border-box;
+   width: 100%;
+    padding: 15px;
+   font-size: 13pt;
+  margin-bottom: 25px;
+}
+
+.tombol_login {
+ background: #46de4b;
+  color: green;
+   font-size: 13pt;
+ width: 100%;
+   border: none;
+ border-radius: 5px;
+   padding: 15px 20px;
+}
+
+.link {
+   color: #232323;
+ text-decoration: none;
+52    font-size: 15pt;
+53 }
